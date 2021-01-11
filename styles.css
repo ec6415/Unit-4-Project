@@ -1,0 +1,54 @@
+img {
+    height: 100px;
+    display:flex;
+    justify-content:space-around;
+}
+.menu1 {
+    display:flex;
+    justify-content:space-around;
+    background-color: white;
+    margin: 5px;
+    padding:10px;
+    border-style: inset;
+    font-family: "Courier New", monospace;
+}
+.bio{
+   display: block;
+   color: white;
+   background-color:#990000;
+   margin:5px;
+   padding:10px;
+   font-family:"courier new", monospace;
+}
+
+.highlights {
+    display:flex;
+    justify-content:space-evenly;
+}
+
+.circle {
+    border-radius: 50%;
+}
+
+.sections{
+    display:flex;
+    justify-content:space-around;
+    background-color:white;
+    margin: 5px;
+    padding: 10px;
+    border-style: inset;
+    font-family: Helvetica;
+}
+
+.post{
+    height: 300px;
+    margin:20px;
+    padding:40px;
+}
+.caption{
+    color: white;
+}
+
+
+
+
